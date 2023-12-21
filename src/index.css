@@ -1,0 +1,23 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+img {
+  width: 100%;
+}
+:root {
+  font-family: 'Poppins', sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color: #E4E6E7;
+  background-color: #0D1426;
+
+
+  --gray-color: #272D40;
+  --accent-color: #FDBD2F;
+  --text-color: #E4E6E7;
+  --dark-color: #0D1426;
+}
